@@ -1,1 +1,3 @@
+# Introdução a Engenahria de Software
+
 A disciplina abordou os fundamentos da Engenharia de Software, explorando seus conceitos e princípios, modelos de ciclo de vida, metodologias e normas de referência, bem como o uso de ferramentas CASE; aprofundou-se nas disciplinas de desenvolvimento como requisitos, análise, projeto, implementação, testes, implantação e manutenção; tratou também do gerenciamento de projetos, configuração e qualidade de software; além de discutir aspectos legais, éticos e sociais da profissão, e apresentar tendências atuais em modelagem, infraestrutura e gerenciamento de software.
